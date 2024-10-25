@@ -1,0 +1,24 @@
+{
+    "fruits": [
+        "apple",
+        "banana",
+        "apple",
+        "orange",
+        "banana"
+    ],
+    "vegetables": [
+        {"name": "carrot", "color": "orange"},
+        {"name": "carrot", "color": "orange"},
+        {"name": "broccoli", "color": "green"},
+        {"name": "broccoli", "color": "green"},
+        {"name": "pepper", "color": "red"}
+    ],
+    "dairy": [
+        "milk",
+        "cheese",
+        "milk",
+        "yogurt"
+    ]
+    ,"fruit": "banana"
+    ,"fruit": "banana"
+}

@@ -1,0 +1,4 @@
+Developer (RAM) has few uncommit changes in his local branch 
+and now he has to empty his current work directory to accommodate 
+emergency change {ECR, Bug fix}, How can RAM handle such scenario 
+without losing his uncommit changes?
